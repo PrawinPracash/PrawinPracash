@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prawinpracash&label=Profile%20views&color=0e75b6&style=flat" alt="prawinpracash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prawinpracash" alt="prawinpracash" /></a> </p>
-
 - 🔭 I’m currently working on **Full-Stack Development, Python Development**
 
 - 🌱 I’m currently learning **React Js, Node Js, Flask**
