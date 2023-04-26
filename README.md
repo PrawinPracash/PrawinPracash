@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there👋 I'm Praveen Prakash
 🔭 I’m currently working on Full-stack web development , Python<br>👯 I’m looking to collaborate on Web related and Python related projects<br>🌱 I’m currently Learning ReactJs , Nodejs<br>💬 Ask me about DSA ,problem solving , I love to do Competitive Programming
 
 
